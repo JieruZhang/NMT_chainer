@@ -8,4 +8,3 @@ It adopted dropout introduced in the paper [RECURRENT NEURAL NETWORK
 REGULARIZATION](https://arxiv.org/pdf/1409.2329.pdf).  
 
 For mroe information about Chainer, please refer to the [chainer documentation](https://docs.chainer.org/en/latest/).
-
