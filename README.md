@@ -1,4 +1,5 @@
-#Attention-based NMT model built by Chainer
+#Attention-based NMT model built by Chainer  
+
 This is a LSTM NMT model of Japanese-English translation using Chianer 1.24. The main idea is baesd on the attention model proposed in the paper[Neural machine translation by jointly learning to align and translate](https://arxiv.org/pdf/1409.0473.pdf). 
 
 It adopted the 'global attention with dot product' introduced in the paper called [Effective Approaches to Attention-based Neural Machine Translation
